@@ -1,0 +1,51 @@
+Запрос к LLM,Вывод LLM
+What is the capital of Kazakhstan?,"The capital of Kazakhstan is Almaty. It was established in 1923 as the Kazakh SSR and later expanded into present-day Almaty. The city serves as the administrative center for the country, as well as a major economic hub and cultural center. Almaty plays a vital role in regional and international affairs due to its strategic location and rich history."
+Explain quantum entanglement in one sentence.,"Quantum entangability refers to the phenomenon where pairs or groups of particles in an entangled state can be described by complex numbers, which allow for correlation and predictability between their states, regardless of the distance separating them from each other."
+Write a Python function to sort a list.,"Certainly! Here's an example Python function that sorts a list in ascending order:
+
+```python
+def sort_list(input_list):
+    return sorted(input_list)
+```
+
+You can call this function with your own list as the argument and it will return the sorted version of the list.
+
+Example usage:
+```python
+my_list = [3, 1, 4, 1, 5, 9, 2, 6, 5]
+sorted_list = sort_list(my_list)
+print(sorted_list)  # Output: [1, 1, 2, 3, 4, 5, 5, 6, 9]
+```
+
+In this example, the `sort_list` function takes a list as an argument and returns a new sorted version of that list. The `sorted()` function is used to sort the list in ascending order."
+Who wrote 'Crime and Punishment'?,"""Crime and Punishment"" was written by Fyodor Dostoevsky, better known as Stendhal. The novel is a powerful exploration of the moral and psychological aspects of the human condition through the lens of a complex plot involving a central character named Nikitin and several secondary characters. ""Crime and Punishment"" was first published in 1865 and remains one of the most widely read works in Russian literature, and it has since been adapted into numerous films and plays around the world."
+How many planets are in the solar system?,"The Solar System has eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+Translate 'Artificial Intelligence' to French.,"""Artificial Intelligence"" in French is ""Intelligence artificielle""."
+What is the chemical formula for water?,"Water's chemical formula is H2O. This means that in water (H2O), one hydrogen atom and two oxygen atoms are present. Water is a chemical compound composed of hydrogen and oxygen. It plays a crucial role in biology, as it provides the material for many life processes."
+Give me a short recipe for pancakes.,"Here is a quick and simple pancake recipe:
+
+Ingredients:
+- 2 eggs 
+- 1 cup milk (or any alternative milk)
+- 1/4 cup sugar
+- 1 tablespoon baking soda
+- 1 teaspoon salt
+
+Instructions:  
+1. Preheat your oven to 350°F (175°C).
+2. Grease a muffin tin.
+3. Crack the eggs into a bowl, add the milk and sugar, mix well. Add the baking soda and salt and stir until well combined.
+4. Mix in the dry ingredients by pouring the wet ingredients over the dry ingredients, alternating with a little bit of water if needed to achieve a smooth consistency.
+5. Pour the batter into the greased muffin tin.
+6. Bake for 10-12 minutes or until a toothpick inserted in the center comes out clean.
+
+You can adjust the recipe by using different types of flour (e.g., all-purpose flour, whole wheat flour) and adding more milk if you prefer pancakes with more liquid. You may also want to add some chopped fruits like bananas or strawberries for extra flavor."
+What is the primary function of a CPU?,"The primary function of a Central Processing Unit (CPU) is to process and execute instructions stored in memory. The more complex tasks typically require multiple CPUs working together to achieve greater efficiency.
+
+In modern systems, a single CPU may be used for some tasks or may have multiple cores to handle multiple small tasks simultaneously. Each CPU handles data in sequence according to the instruction set of the system it runs on. The core function is to manage resources like memory and I/O devices based on instructions received from the main CPU.
+
+In terms of hardware, CPUs are typically found in personal computers, servers, and mobile devices, but they can be found in more complex systems such as supercomputers or data centers."
+Write a 4-line poem about the moon.,"The moon, a bright blue sphere,
+Reflects the world in its calm grace.
+Its light and mystery, it holds us so,
+A source of peace, a beacon of hope."
