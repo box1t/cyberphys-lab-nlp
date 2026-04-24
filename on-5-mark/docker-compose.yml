@@ -1,0 +1,7 @@
+version: "3.9"
+
+services:
+  mcp-service:
+    build: .
+    ports:
+      - "8001:8001"
